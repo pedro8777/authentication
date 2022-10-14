@@ -1,0 +1,1 @@
+const btLogout = document.querySelector('.logout');
